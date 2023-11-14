@@ -1,4 +1,4 @@
-# OpenAI DALL·E API with Gradio
+# OpenAI Speech To Text API with Gradio
 
 ## Start up Flow
 
